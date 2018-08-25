@@ -6,6 +6,7 @@ O arquivo info.txt contém informações acerca de como acessar os dados que dev
 
 *É recomendada a leitura dos capítulos 6 e 7 do [edital](https://github.com/seplagniteroi/hacknit/raw/master/EditaldeParticipantes-HackNIT_ERRATA.pdf), para garantir a conformidade do projeto com as regras do evento.*
 
+
 É necessário possuir o [Git](https://git-scm.com/) instalado para utilizar os repositórios hospedados no GitHub. Um guia de introdução ao Git pode ser acessado em https://guides.github.com/introduction/git-handbook/.
 
 ### Copiando o projeto
