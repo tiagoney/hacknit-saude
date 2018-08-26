@@ -1,0 +1,98 @@
+OBJECTID;nome;nomegen;tipunidade;nivelatenc;lograd;cep;telefone
+1;Abel Santamaria;Preventório I;Unidade do Médico de Família;Primária;Travessa Carmita;0;2715-4313
+2;Abel Santamaria;Preventório I;Unidade do Médico de Família;Primária;Travessa Carmita;0;2715-4313
+3;Calixto Garcia;Preventório II;Unidade do Médico de Família;Primária;Avenida Quintino Bocaiúva;24360-022;3701-0161
+4;Calixto Garcia;Preventório II;Unidade do Médico de Família;Primária;Avenida Quintino Bocaiúva;24360-022;3701-0161
+5;Camilo Cienfuegos;Viradouro;Unidade do Médico de Família;Primária;Rua Mario Vianna;0;2711-8369
+6;Camilo Cienfuegos;Viradouro;Unidade do Médico de Família;Primária;Rua Mario Vianna;0;2711-8369
+7;Camilo Cienfuegos;Viradouro;Unidade do Médico de Família;Primária;Rua Mario Vianna;0;2711-8369
+8;Frank País Garcia;Cavalão;Unidade do Médico de Família;Primária;Alameda Paris;24360-018;2611-9570
+9;Frank País Garcia;Cavalão;Unidade do Médico de Família;Primária;Alameda Paris;24360-018;2611-9570
+10;PMF Martins Torres;Martins Torres;Unidade do Médico de Família;Primária; ;0; 
+11;Célia Sanchez;Ilha da Conceição;Clínica Comunitária da Família;Primária;Rua Mario Neves;0;2622-6671
+12;Célia Sanchez;Ilha da Conceição;Clínica Comunitária da Família;Primária;Rua Mario Neves;0;2622-6671
+13;Célia Sanchez;Ilha da Conceição;Clínica Comunitária da Família;Primária;Rua Mario Neves;0;2622-6671
+14;Mario Munhoz Monroe;Jurujuba;Unidade do Médico de Família;Primária;Avenida Carlos Ermelindo Marins;24370-195;2704-9672
+15;Mario Munhoz Monroe;Jurujuba;Unidade do Médico de Família;Primária;Avenida Carlos Ermelindo Marins;24370-195;2704-9672
+16;Mario Munhoz Monroe;Jurujuba;Unidade do Médico de Família;Primária;Avenida Carlos Ermelindo Marins;24370-195;2704-9672
+17;Faustino Perez;Morro Do Céu;Unidade do Médico de Família;Primária;Estrada Vicoso Jardim;24140-169;99641-2165
+18;Willian Soller I;Engenho do Mato;Unidade do Médico de Família;Primária;Estrada Irene Lopes Sodré;24346-040;2709-2662
+19;Willian Soller I;Engenho do Mato;Unidade do Médico de Família;Primária;Estrada Irene Lopes Sodré;24346-040;2709-2662
+20;Willian Soller I;Engenho do Mato;Unidade do Médico de Família;Primária;Estrada Irene Lopes Sodré;24346-040;2709-2662
+21;Willian Soller I;Engenho do Mato;Unidade do Médico de Família;Primária;Estrada Irene Lopes Sodré;24346-040;2709-2662
+22;Willian Soller I;Engenho do Mato;Unidade do Médico de Família;Primária;Estrada Irene Lopes Sodré;24346-040;2709-2662
+23;Willian Soller I;Engenho do Mato;Unidade do Médico de Família;Primária;Estrada Irene Lopes Sodré;24346-040;2709-2662
+24;Jorge Luiz Camacho Rodrigues;Maruí;Unidade do Médico de Família;Primária;Rua Monsenhor Raeder;0;3714- 2173
+25;Jorge Luiz Camacho Rodrigues;Maruí;Unidade do Médico de Família;Primária;Rua Monsenhor Raeder;0;3714- 2173
+26;Jorge Luiz Camacho Rodrigues;Maruí;Unidade do Médico de Família;Primária;Rua Monsenhor Raeder;0;3714- 2173
+27;Julio Diaz Gonzalez;Leopoldina;Unidade do Médico de Família;Primária;Rua George Allan;0;2624-0017
+28;Julio Diaz Gonzalez;Leopoldina;Unidade do Médico de Família;Primária;Rua George Allan;0;2624-0017
+29;José Antonio Echeverria Bianchi;Souza Soares;Unidade do Médico de Família;Primária;Rua Lions Club;0;3602-0083
+30;José Antonio Echeverria Bianchi;Souza Soares;Unidade do Médico de Família;Primária;Rua Lions Club;0;3602-0083
+31;Carlos J. Finlay;Vital Brazil;Unidade do Médico de Família;Primária;Rua João Dalossi;0;2610-1904
+32;Ernesto Che Guevara I;Cafubá I;Unidade do Médico de Família;Primária;Avenida Raul de Oliveira Rodrigues;24350-630;2619-0757
+33;Ernesto Che Guevara I;Cafubá I;Unidade do Médico de Família;Primária;Avenida Raul de Oliveira Rodrigues;24350-630;2619-0757
+34;Ernesto Che Guevara II;Cafubá II;Unidade do Médico de Família;Primária;Rua Vereador Luiz Erthal;0;2619-5268
+35;Ernesto Che Guevara II;Cafubá II;Unidade do Médico de Família;Primária;Rua Vereador Luiz Erthal;0;2619-5268
+36;Cte.Manoel Pinheiro Lozada;Maravista;Unidade do Médico de Família;Primária;Rua Astor da Costa Menezes;0;2709-0360
+37;Cte.Manoel Pinheiro Lozada;Maravista;Unidade do Médico de Família;Primária;Rua Astor da Costa Menezes;0;2709-0360
+38;Cte.Manoel Pinheiro Lozada;Maravista;Unidade do Médico de Família;Primária;Rua Astor da Costa Menezes;0;2709-0360
+39;PMF Colônia;Colônia dos Pescadores;Unidade do Médico de Família;Primária;Praia de Itaipu;0;2609-8336
+40;José Martí I;Grota I;Unidade do Médico de Família;Primária;Rua Albino Pereira;0;2710-1061
+41;José Martí I;Grota II;Unidade do Médico de Família;Primária;Rua Ascendino Pereira;0;3602-2394
+42;José Martí I;Grota II;Unidade do Médico de Família;Primária;Rua Ascendino Pereira;0;3602-2394
+43;Jesus Montañez;Palácio;Unidade do Médico de Família;Primária;Rua 11 de Agosto;0;2722-0146
+44;Jesus Montañez;Palácio;Unidade do Médico de Família;Primária;Rua 11 de Agosto;0;2722-0146
+45;Carlos Rafael Rodrigues;Marítimos;Unidade do Médico de Família;Primária;Rua Machado;0;3703-3265
+46;Carlos Rafael Rodrigues;Marítimos;Unidade do Médico de Família;Primária;Rua Machado;0;3703-3265
+47;PMF Caramujo;Caramujo;Unidade do Médico de Família;Primária;Avenida Colônia;24140-395;2625-9467
+48;PMF Caramujo;Caramujo;Unidade do Médico de Família;Primária;Avenida Colônia;24140-395;2625-9467
+49;PMF Caramujo;Caramujo;Unidade do Médico de Família;Primária;Avenida Colônia;24140-395;2625-9467
+50;PMF Caramujo;Caramujo;Unidade do Médico de Família;Primária;Avenida Colônia;24140-395;2625-9467
+51;Antonio Nico Lôpez;Nova Brasília;Unidade do Médico de Família;Primária;Rua Professor João Brasil;0;3706-7519
+52;Antonio Nico Lôpez;Nova Brasília;Unidade do Médico de Família;Primária;Rua Professor João Brasil;0;3706-7519
+53;Antonio Nico Lôpez;Nova Brasília;Unidade do Médico de Família;Primária;Rua Professor João Brasil;0;3706-7519
+54;José Suárez Blanco;Jonathas Botelho;Unidade do Médico de Família;Primária;Travessa Jonathas Botelho;0;2710-6367
+55;Dr. Abelardo Ramirez;Matapaca;Unidade do Médico de Família;Primária;Rua Aurora Ribeiro;0;2617-9269
+56;Dr. Abelardo Ramirez;Matapaca;Unidade do Médico de Família;Primária;Rua Aurora Ribeiro;0;2617-9269
+57;Dr. Abelardo Ramirez;Matapaca;Unidade do Médico de Família;Primária;Rua Aurora Ribeiro;0;2617-9269
+58;Dr. Abelardo Ramirez;Matapaca;Unidade do Médico de Família;Primária;Rua Aurora Ribeiro;0;2617-9269
+59;Dr. Wilson Pereira de Oliveira;Ititioca;Unidade do Médico de Família;Primária;Rua Costa Monteiro;0;2610-0852
+60;Dr. Wilson Pereira de Oliveira;Ititioca;Unidade do Médico de Família;Primária;Rua Costa Monteiro;0;2610-0852
+61;Salvador Allende;Atalaia;Unidade do Médico de Família;Primária;Rua Padre José Euger;0;2618-7616
+62;Salvador Allende;Atalaia;Unidade do Médico de Família;Primária;Rua Padre José Euger;0;2618-7616
+63;Alberto Ricardo Hatin;Cafubá III;Unidade do Médico de Família;Primária;Rua Manoel Pacheco de Carvalho;0;2709-4374
+64;Alberto Ricardo Hatin;Cafubá III;Unidade do Médico de Família;Primária;Rua Manoel Pacheco de Carvalho;0;2709-4374
+65;Alberto Ricardo Hatin;Cafubá III;Unidade do Médico de Família;Primária;Rua Manoel Pacheco de Carvalho;0;2709-4374
+66;Wilma Spim;Vila Ipiranga;Unidade do Médico de Família;Primária;Rua Tenente Osório;0;2625-3821
+67;Wilma Spim;Vila Ipiranga;Unidade do Médico de Família;Primária;Rua Tenente Osório;0;2625-3821
+68;Wilma Spim;Vila Ipiranga;Unidade do Médico de Família;Primária;Rua Tenente Osório;0;2625-3821
+69;Wilma Spim;Vila Ipiranga;Unidade do Médico de Família;Primária;Rua Tenente Osório;0;2625-3821
+70;Wilma Spim;Vila Ipiranga;Unidade do Médico de Família;Primária;Rua Tenente Osório;0;2625-3821
+71;Omar Marinho Vieira;Alarico de Souza;Unidade do Médico de Família;Primária;Estrada do Alarico;24240-550;97127-1746
+72;Dr. Raul Carlos Pareto Junior;Bernardino;Unidade do Médico de Família;Primária;Rua Sa Barreto;0;2721-7131
+73;Dr. Raul Carlos Pareto Junior;Bernardino;Unidade do Médico de Família;Primária;Rua Sa Barreto;0;2721-7131
+74;Dr. Raul Carlos Pareto Junior;Bernardino;Unidade do Médico de Família;Primária;Rua Sa Barreto;0;2721-7131
+75;João Sampaio;Maceió;Unidade do Médico de Família;Primária;Rua José Bento Vieira Ferreira;0;3611-0918
+76;João Sampaio;Maceió;Unidade do Médico de Família;Primária;Rua José Bento Vieira Ferreira;0;3611-0918
+77;João Sampaio;Maceió;Unidade do Médico de Família;Primária;Rua José Bento Vieira Ferreira;0;3611-0918
+78;João Sampaio;Maceió;Unidade do Médico de Família;Primária;Rua José Bento Vieira Ferreira;0;3611-0918
+79;Thayssa Erminda Alves;Viçoso Jardim;Unidade do Médico de Família;Primária;Estrada Viçoso Jardim;24140-169;2618-8295
+80;Thayssa Erminda Alves;Viçoso Jardim;Unidade do Médico de Família;Primária;Estrada Viçoso Jardim;24140-169;2618-8295
+81;Dr. Antonio Peçanha;Teixeira de Freitas;Clínica Comunitária da Família;Primária;Rua Teixeira de Freitas;0;99775-3421
+82;Dr. Antonio Peçanha;Teixeira de Freitas;Clínica Comunitária da Família;Primária;Rua Teixeira de Freitas;0;99775-3421
+83;Dr. Antonio Peçanha;Teixeira de Freitas;Clínica Comunitária da Família;Primária;Rua Teixeira de Freitas;0;99775-3421
+84;Dr. Antonio Peçanha;Teixeira de Freitas;Clínica Comunitária da Família;Primária;Rua Teixeira de Freitas;0;99775-3421
+85;Varzea das Moças;Várzea das Moças;Clínica Comunitária da Família;Primária;Estrada Velha de Marica;24330-000;3602-8057
+86;Varzea das Moças;Várzea das Moças;Clínica Comunitária da Família;Primária;Estrada Velha de Marica;24330-000;3602-8057
+87;Zilda Arns;Zilda Arns;Unidade do Médico de Família;Primária; ;0; 
+88;PMF Sapê;Sapê;Unidade do Médico de Família;Primária; ;0; 
+89;PMF Sapê;Sapê;Unidade do Médico de Família;Primária; ;0; 
+90;PMF Sapê;Sapê;Unidade do Médico de Família;Primária; ;0; 
+91;Haidée Santamaria I;Cantagalo;Unidade do Médico de Família;Primária;Avenida Nelson de Oliveira e Silva;0;2616-5037
+92;Haidée Santamaria I;Cantagalo;Unidade do Médico de Família;Primária;Avenida Nelson de Oliveira e Silva;0;2616-5037
+93;Haidée Santamaria I;Cantagalo;Unidade do Médico de Família;Primária;Avenida Nelson de Oliveira e Silva;0;2616-5037
+94;Haidée Santamaria I;Cantagalo;Unidade do Médico de Família;Primária;Avenida Nelson de Oliveira e Silva;0;2616-5037
+95;Prof. Barros Terra;Badu;Clínica Comunitária da Família;Primária;Estrada Alcebiades Pinto;24320-150;97288-6808
+96;Prof. Barros Terra;Badu;Clínica Comunitária da Família;Primária;Estrada Alcebiades Pinto;24320-150;97288-6808
+97;Prof. Barros Terra;Badu;Clínica Comunitária da Família;Primária;Estrada Alcebiades Pinto;24320-150;97288-6808
