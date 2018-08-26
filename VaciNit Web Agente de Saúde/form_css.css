@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+h1 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: #FF0004;
+}
+
+#espaco_sexo {
+	margin-left: 585px;
+}
+
+#espaco_form {
+	margin-right: 30px;
+}
+
